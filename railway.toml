@@ -1,0 +1,5 @@
+[build]
+  # Command to build your React app
+  build = "npm install && npm run build"
+  # Command to start your app (serving static files)
+  start = "npm run start"
